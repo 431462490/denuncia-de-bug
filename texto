@@ -1,0 +1,87 @@
+Fazer um sistema de comunicar bugs de jogos. 
+
+Todas respostas serao armazenadas. 
+
+O jogador recebera uma saudação junto da pergunta se teve problemas com algum bug. 
+
+“Olá! Você encontrou algum bug que queira reportar?” 
+
+Jogador recebera a opção de sim ou não em números: 
+
+“1-sim 2-não” 
+
+  Se responder não: Sistema vai falar: 
+
+“Ótimo, tenha um bom dia.” 
+
+  Se responder sim: Sistema continuará. 
+
+Sistema pergunta qual situação o jogador teve problemas com 4 opções: 
+
+  “Em qual situação a seguir você teve problemas: 
+
+1-Personagem  2-Ambiente  3-NPC's  4 -Outro” 
+
+ 
+
+Caso seja 1-Personagem: 
+
+Perguntas: 
+
+1- Personagem ficou preso? 
+
+2- Habilidades não funcionam? 
+
+3- Itens sumiram? 
+
+ 
+
+Respostas: 
+
+1- Tente usar a opção no menu renascer, se não funcionar, saia e entre no jogo 
+
+2- Tente usar a opção no menu renascer, se não funcionar, saia e entre no jogo 
+
+3- Volte no save point onde você tinha os itens. 
+
+4- Outro. 
+
+ 
+
+Caso seja 2-Ambiente: 
+
+1- Mapa não está renderizando? 
+
+2- Objetivos não aparecem? 
+
+3- Outro. 
+
+ 
+
+Respostas: 
+
+1-  
+
+Caso seja 3- NPC's: 
+
+1- Não é possivel interagir com NPC? 
+
+2- NPC's não se encontram no lugar que deveriam estar? 
+
+3- Outro. 
+
+ 
+
+Caso seja 4- Outro: 
+
+Informe o erro que você experienciou: 
+
+‘informa o erro’ 
+
+Muito obrigado, agradecemos sua colaboração. Enviaremos uma resposta para seus problemas entre 2 dias e 99999999 anos! 
+
+ 
+
+Sistema de avaliação de serviço: 
+
+“De 1 a 10, qual seu nível de satisfação com o sistema?” 
